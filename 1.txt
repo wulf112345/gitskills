@@ -3,5 +3,8 @@ dfdsfd
 
 112212
 
+<<<<<<< HEAD
 
 modyfy on branch
+=======
+
