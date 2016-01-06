@@ -1,0 +1,1 @@
+test the command git commit -m "Latest CP:${CP_VERSION_NAME}.bin"
